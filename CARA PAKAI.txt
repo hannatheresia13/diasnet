@@ -1,0 +1,12 @@
+diasnet (diagnosa asma melalui internet):
+
+cara pakai:
+- import database diasnetdb.sql ke server (XAMPP / WAMP)
+- sistem pakar ada di bagian "TES ASMA"
+- masuk pakai user dan password yg sudah ada:
+	- id:hendras pass:pass
+	- id:jimi pass:pass2
+	- id:wili pass:pass3
+	- id:mike pass:pass4
+- data dan cara kerja seperti jurnal yang diberikan jimi kemarin
+- thankyu
